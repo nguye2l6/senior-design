@@ -21,7 +21,7 @@ Phone: 513 - 693 - 5405
 * Database Programming: SQL
 ## Areas of Interest
 * Data Visualization
-* Multi-modal Generative AI
+* Generative AI
 * Image Segmentation
 * Reverse Engineering
 ## Type of Project Sought
