@@ -1,6 +1,10 @@
-# Senior-design
+# Long Nguyen
 
 ## Co-op and Other Related Experiences
+
+### Software Develop R&D Co-Op
+
+### Software Engineering Intern
 
 ## Skills/Expertise Areas
 
