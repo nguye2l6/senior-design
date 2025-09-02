@@ -8,7 +8,7 @@ Phone: 513 - 693 - 5405
 
 ## Co-op and Other Related Experiences
 
-### Software Develop R&D Co-Op ( 3 Semesters )
+### Software Development R&D Co-Op ( 3 Semesters )
 * Spearheaded team-based knowledge sharing platform via SharePoint
 * Developed cutting edge AI technologies into business applicable proof of concepts
 * Experimented with expanding multimodal generative AI models into a 3d part context
